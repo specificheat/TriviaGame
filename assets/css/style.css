@@ -1,0 +1,69 @@
+body{
+    background-image: url("../images/pinkgalaxy.jpg");
+    background-repeat: no-repeat;
+    justify-content: center;
+    background-size: cover;
+}
+
+.header{
+    background-image: url("../images/dumbface2.jpg");
+    background-repeat: no-repeat;
+    background-size: auto;
+    border-style: inset;
+    border-color: black;
+    color: white;
+    
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+    width: 490px;
+    height: 320px;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+    background-color: rgba(0, 0, 0, 0.262);
+    border-radius: 20px;
+    width: 700px;
+    height: 1000px;
+    margin: auto;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif
+    
+}
+#answer{
+    color: white;
+    
+    
+}
+#start{
+    width: 90px;
+    height: 40px;
+    border-radius: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    background-color:  rgb(4, 96, 255);
+    border-color:  rgba(0, 0, 0, 0.543);
+    color: white;
+    font-size: large;
+}
+
+#reset{
+    width: 90px;
+    height: 40px;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    background-color:  rgb(4, 96, 255);
+    border-color: rgba(0, 0, 0, 0.543);
+    color: white;
+    font-size: large;  
+}
+
+img{
+    max-width: 500px;
+    height:auto;
+    max-height: 500px;
+}
